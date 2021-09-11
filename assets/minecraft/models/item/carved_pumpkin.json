@@ -1,0 +1,47 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+  		{
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "item/hats/example_hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/hats/hannah_test"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model":"item/hats/miners_hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model":"item/hats/scar_remake"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model":"item/hats/pig_face"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model":"item/hats/nyan_cat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model":"item/hats/jellie_band"
+        }
+  	]
+}
