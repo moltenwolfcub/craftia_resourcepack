@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "bubble",
-		"particle": "bubble"
+		"0": "block/bubble",
+		"particle": "block/bubble"
 	},
 	"elements": [
 		{
