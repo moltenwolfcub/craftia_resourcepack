@@ -42,6 +42,12 @@
                 "custom_model_data": 16
             },
             "model":"item/hats/jellie_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model":"item/hats/bubble"
         }
   	]
 }
