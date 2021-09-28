@@ -5,49 +5,61 @@
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "item/hats/example_hat"
+            "model": "item/hats/hats/example_hat"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "item/hats/hannah_test"
+            "model": "item/hats/hats/hannah_test"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model":"item/hats/miners_hat"
+            "model":"item/hats/hats/miners_hat"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model":"item/hats/scar_remake"
+            "model":"item/hats/hats/scar_remake"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model":"item/hats/pig_face"
+            "model":"item/hats/hats/pig_face"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model":"item/hats/nyan_cat"
+            "model":"item/hats/hats/nyan_cat"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model":"item/hats/jellie_band"
+            "model":"item/hats/hats/jellie_band"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
             "model":"item/hats/bubble"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model":"item/hats/glasses/eco_friendly_glasses"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model":"item/hats/glasses/basic_glasses"
         }
   	]
 }
