@@ -53,13 +53,25 @@
             "predicate": {
                 "custom_model_data": 18
             },
-            "model":"item/hats/glasses/eco_friendly_glasses"
+            "model":"item/hats/glasses/basic_glasses"
         },
         {
             "predicate": {
                 "custom_model_data": 19
             },
-            "model":"item/hats/glasses/basic_glasses"
+            "model":"item/hats/glasses/eco_friendly_glasses"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model":"item/hats/hats/panda"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model":"item/hats/craftians/potion_panda"
         }
   	]
 }
