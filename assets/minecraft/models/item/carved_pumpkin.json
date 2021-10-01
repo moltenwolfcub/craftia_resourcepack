@@ -78,6 +78,12 @@
                 "custom_model_data": 21
             },
             "model":"item/hats/hats/cap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model":"item/hats/hats/cowboy_hat"
         }
   	]
 }
