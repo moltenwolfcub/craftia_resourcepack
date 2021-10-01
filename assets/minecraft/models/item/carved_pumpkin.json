@@ -11,7 +11,7 @@
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "item/hats/hats/hannah_test"
+            "model": "item/hats/accesories/hannah_test"
         },
         {
             "predicate": {
@@ -29,19 +29,19 @@
             "predicate": {
                 "custom_model_data": 14
             },
-            "model":"item/hats/hats/pig_face"
+            "model":"item/hats/accesories/pig_face"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model":"item/hats/hats/nyan_cat"
+            "model":"item/hats/accesories/nyan_cat"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model":"item/hats/hats/jellie_band"
+            "model":"item/hats/accesories/jellie_band"
         },
         {
             "predicate": {
