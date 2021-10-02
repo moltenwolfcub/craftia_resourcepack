@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/beetroot"
+		"layer0": "item/carrot_on_a_stick"
 	},
 	"overrides": [
 		{
