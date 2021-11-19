@@ -5,6 +5,7 @@
 		"0": "entity/panda/playful_panda",
 		"1": "entity/upsidedown_playful_panda",
 		"2": "block/light_blue_concrete",
+		"3": "block/purple_concrete",
 		"particle": "entity/panda/playful_panda"
 	},
 	"elements": [
@@ -184,7 +185,7 @@
 		},
 		{
 			"from": [5.5, 7.3, -11],
-			"to": [10.5, 12.3, -4],
+			"to": [10.5, 12.3, -7],
 			"faces": {
 				"north": {"uv": [0, 0, 1.25, 1.25], "texture": "#2"},
 				"east": {"uv": [0, 0, 1.75, 1.25], "texture": "#2"},
@@ -192,6 +193,18 @@
 				"west": {"uv": [0, 0, 1.75, 1.25], "texture": "#2"},
 				"up": {"uv": [0, 0, 1.25, 1.75], "texture": "#2"},
 				"down": {"uv": [0, 0, 1.25, 1.75], "texture": "#2"}
+			}
+		},
+		{
+			"from": [5.5, 7.3, -7],
+			"to": [10.5, 12.3, -4],
+			"faces": {
+				"north": {"uv": [0, 0, 1.25, 1.25], "texture": "#3"},
+				"east": {"uv": [0, 0, 1.75, 1.25], "texture": "#3"},
+				"south": {"uv": [0, 0, 1.25, 1.25], "texture": "#3"},
+				"west": {"uv": [0, 0, 1.75, 1.25], "texture": "#3"},
+				"up": {"uv": [0, 0, 1.25, 1.75], "texture": "#3"},
+				"down": {"uv": [0, 0, 1.25, 1.75], "texture": "#3"}
 			}
 		}
 	],
@@ -278,7 +291,7 @@
 			"name": "hat",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [9, 10, 11, 12, 13, 14]
+			"children": [9, 10, 11, 12, 13, 14, 15]
 		}
 	]
 }
