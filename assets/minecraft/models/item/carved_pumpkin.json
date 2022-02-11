@@ -13,6 +13,12 @@
             },
             "model":"item/hats/craftians/flare_fox"
         },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model":"item/hats/craftians/orecelot"
+        },
   		{
             "predicate": {
                 "custom_model_data": 10
