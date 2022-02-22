@@ -19,6 +19,12 @@
             },
             "model":"item/hats/craftians/orecelot"
         },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model":"item/hats/craftians/dr_crimso_creep"
+        },
   		{
             "predicate": {
                 "custom_model_data": 10
